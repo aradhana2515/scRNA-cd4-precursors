@@ -205,3 +205,32 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / outputs
+output/
+figures/
+data/
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+
