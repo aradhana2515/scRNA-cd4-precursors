@@ -82,15 +82,13 @@ Diffusion geometry captures nonlinear transitions that are not resolvable in bul
 
 ## Gene Program Gradients Along Pseudotime
 
-Effector-associated genes such as **GZMB** and **NKG7** increase toward the terminal end of the trajectory:
+Expression of effector-associated genes (e.g., GZMB, NKG7) is enriched toward regions of the embedding corresponding to later pseudotime, consistent with progressive activation rather than purely discrete clustering.
 
 <p align="center">
   <img src="images/gzmb.png" width="425">
   <img src="images/nkg7.png" width="425">
 </p>
 
-
-This pattern supports directional activation rather than discrete cluster switching.
 
 ---
 
